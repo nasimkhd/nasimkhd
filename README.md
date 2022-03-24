@@ -12,10 +12,10 @@ This is Me:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love Skating, Reading, Coding
+- ⚡ Fun fact: I love Skating, Reading and Coding
 -->
 - 🔭 I’m currently working on React and node.js aplications
 - 🌱 I’m currently learning how to create web and how to work with APIs
 - 👯 I’m looking to collaborate on Javascript Frameworks
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love Skating, Reading, Coding
+- ⚡ Fun fact: I love Skating, Reading and Coding
