@@ -5,7 +5,7 @@
 
 This is Me:
 
-- 🔭 I’m currently working on express and node.js aplications
+- 🔭 I’m currently working on React and node.js aplications
 - 🌱 I’m currently learning how to create web and how to work with APIs
 - 👯 I’m looking to collaborate on Javascript Frameworks
 - 🤔 I’m looking for help with ...
@@ -14,7 +14,7 @@ This is Me:
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love Skating, Reading, Coding
 -->
-- 🔭 I’m currently working on express and node.js aplications
+- 🔭 I’m currently working on React and node.js aplications
 - 🌱 I’m currently learning how to create web and how to work with APIs
 - 👯 I’m looking to collaborate on Javascript Frameworks
 - 😄 Pronouns: She/Her
